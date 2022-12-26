@@ -1,6 +1,6 @@
-#include <iostream>
-#include <cstdlib>
-#include <graphics.h>
+#include<iostream>
+#include<cstdlib>
+#include<graphics.h>
 using namespace std;
 int main()
 {
